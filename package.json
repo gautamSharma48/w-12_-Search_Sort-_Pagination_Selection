@@ -1,0 +1,26 @@
+{
+  "name": "w-12_-search_sort-_pagination_selection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zz9876/w-12_-Search_Sort-_Pagination_Selection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zz9876/w-12_-Search_Sort-_Pagination_Selection/issues"
+  },
+  "homepage": "https://github.com/zz9876/w-12_-Search_Sort-_Pagination_Selection#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
